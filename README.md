@@ -1,2 +1,8 @@
-# Strivers-SDE-Sheet-GO-Solutions
-Solution for Striver's SDE Sheet in Golang
+# Strivers SDE Sheet Golang Solutions 
+
+Solution of Striver's SDE Sheet in Golang with code explanation
+
+
+### Topics covered:
+- [x] [Day 9- Recursion](Day9-Recursion)
+    - [x] [Subset Sum](Day9-Recursion/subset_sum.go)
